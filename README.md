@@ -13,7 +13,9 @@ My long-term mission is to combine technology + economics to build scalable solu
 
 🔧 Tech Stack & Tools
 Languages: C++, Python, JavaScript, C, HTML/CSS, React, SQL
+
 Tools: VS Code, Xcode, Git/GitHub, Notion
+
 Design: Figma, Canva
 
 🚀 Projects I’m Building
