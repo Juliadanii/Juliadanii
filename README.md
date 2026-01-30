@@ -6,15 +6,14 @@ I love creating tools that make life easier, smarter, and more connected.
 If an idea comes to mind, I’ll sketch it, build it, refine it, and ship it.
 
 Right now, I’m focused on strengthening my skills in:
-C++, Python, and JavaScript
-Data structures & algorithms
+C++, Python, and JavaScript,
 Financial modeling + analytics
 My long-term mission is to combine technology + economics to build scalable solutions.
 
 🔧 Tech Stack & Tools
 Languages: C++, Python, JavaScript, C, HTML/CSS, React, SQL
 
-Tools: VS Code, Xcode, Git/GitHub, Notion
+Tools: VS Code, Git/GitHub, Notion
 
 Design: Figma, Canva
 
