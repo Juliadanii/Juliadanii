@@ -18,7 +18,7 @@ analysis.
   analysis on a 50K-row database
 - **Economic Indicators Dashboard** — tracking and visualizing macro
   indicators *(repo coming soon)*
-- **Housing Affordability & Policy Analysis** — data-driven look at housing
+- **[Housing Affordability & Policy Analysis](https://github.com/Juliadanii/Housing_Affordability_Analysis)** — data-driven look at housing
   markets and policy impact *(repo coming soon)*
 - **Stock Movers Pipeline** — automated pipeline surfacing daily market
   movers *(repo coming soon)*
