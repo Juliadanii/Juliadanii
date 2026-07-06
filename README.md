@@ -1,37 +1,38 @@
-🌟 Hey there!
+# Hi, I'm Julia 👋
 
-I’m Julia, a CS & Financial Economics Graduate at UMBC with a passion for building meaningful software, improving systems, and helping people, whether that’s through tech, design, or community work.
+CS + Financial Economics graduate from UMBC (May 2026), with a minor in
+Africana Studies. I work at the intersection of data, finance, and code —
+currently focused on data analyst roles while building toward quantitative
+analysis.
 
-I love creating tools that make life easier, smarter, and more connected.
-If an idea comes to mind, I’ll sketch it, build it, refine it, and ship it.
+## 🔧 What I work with
 
-Right now, I’m focused on strengthening my skills in:
-C++, Python, and JavaScript,
-Financial modeling + analytics
-My long-term mission is to combine technology + economics to build scalable solutions.
+**Core:** SQL · Python · Power BI · Tableau
+**Also:** R, JavaScript/React, C++, Excel, Git
+**Currently:** sharpening quant skills through a quantitative finance bootcamp
 
-🔧 Tech Stack & Tools
-Languages: C++, Python, JavaScript, C, HTML/CSS, React, SQL
+## 📊 Featured projects
 
-Tools: VS Code, Git/GitHub, Notion
+- **[SQL Server DBA Lab](https://github.com/Juliadanii/sql-server-dba-lab)** —
+  schema design, backup/recovery, and query tuning with execution plan
+  analysis on a 50K-row database
+- **Economic Indicators Dashboard** — tracking and visualizing macro
+  indicators *(repo coming soon)*
+- **Housing Affordability & Policy Analysis** — data-driven look at housing
+  markets and policy impact *(repo coming soon)*
+- **Stock Movers Pipeline** — automated pipeline surfacing daily market
+  movers *(repo coming soon)*
+- **Crypto Statistical Arbitrage** — stat arb strategy research and
+  backtesting *(repo coming soon)*
 
-Design: Figma, Canva
+## 🎯 Direction
 
-🚀 Projects I’m Building
-Investor Portfolio Tracker with financial insights
-Hair-Booking Website for small local businesses
-DSA Practice Repo (prepping for interviews + quant work)
-More coming soon 👀
+Data analyst today, quant analyst tomorrow. Long-term, I want to use
+technology and economics to build solutions that strengthen African
+economies.
 
-🎯 What I’m Working Toward
-Becoming a Quant Developer / Quant Analyst
-Building tech that uplifts African economies
-Creating a portfolio of impactful software projects
-Earning a fully funded MBA and leveling up my business + leadership skills
+## 🌱 Beyond the code
 
-🌱 Fun Facts About Me
-I’m Ethiopian 🇪🇹 & deeply spiritual
-I love anime, gym days, and aesthetic organization
-I’m a visual learner — colors, diagrams, and patterns are my thing
-My goal is to build both confidence + competence
+Ethiopian 🇪🇹 · anime · gym · unreasonably organized Notion workspaces
 
+📫 Reach me: [LinkedIn](linkedin.com/in/julia-gebretatiyos) · julydani2005@gmial.com
