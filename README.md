@@ -19,7 +19,7 @@ analysis.
 - **Economic Indicators Dashboard** — tracking and visualizing macro
   indicators *(repo coming soon)*
 - **[Housing Affordability & Policy Analysis](https://github.com/Juliadanii/Housing_Affordability_Analysis)** — data-driven look at housing
-  markets and policy impact *(repo coming soon)*
+  markets and policy impact
 - **Stock Movers Pipeline** — automated pipeline surfacing daily market
   movers *(repo coming soon)*
 - **Crypto Statistical Arbitrage** — stat arb strategy research and
@@ -28,8 +28,7 @@ analysis.
 ## 🎯 Direction
 
 Data analyst today, quant analyst tomorrow. Long-term, I want to use
-technology and economics to build solutions that strengthen African
-economies.
+technology and economics to build solutions that strengthen economies.
 
 ## 🌱 Beyond the code
 
