@@ -1,6 +1,6 @@
 🌟 Hey there!
 
-I’m Julia, a CS & Financial Economics student at UMBC with a passion for building meaningful software, improving systems, and helping people, whether that’s through tech, design, or community work.
+I’m Julia, a CS & Financial Economics Graduate at UMBC with a passion for building meaningful software, improving systems, and helping people, whether that’s through tech, design, or community work.
 
 I love creating tools that make life easier, smarter, and more connected.
 If an idea comes to mind, I’ll sketch it, build it, refine it, and ship it.
