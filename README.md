@@ -16,8 +16,8 @@ analysis.
 - **[SQL Server DBA Lab](https://github.com/Juliadanii/sql-server-dba-lab)** —
   schema design, backup/recovery, and query tuning with execution plan
   analysis on a 50K-row database
-- **Economic Indicators Dashboard** — tracking and visualizing macro
-  indicators *(repo coming soon)*
+- **[Economic Indicators Dashboard](https://github.com/Juliadanii/Economic_Indicator_Dashboard)** — tracking and visualizing macro
+  indicators
 - **[Housing Affordability & Policy Analysis](https://github.com/Juliadanii/Housing_Affordability_Analysis)** — data-driven look at housing
   markets and policy impact
 - **Stock Movers Pipeline** — automated pipeline surfacing daily market
